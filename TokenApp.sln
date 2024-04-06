@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenApp", "TokenApp\TokenApp.csproj", "{258A72B4-552F-48EA-9794-03E026D64BFD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{3FDA9ED4-2233-40B0-B2E4-F363D94CDC40}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{258A72B4-552F-48EA-9794-03E026D64BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258A72B4-552F-48EA-9794-03E026D64BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258A72B4-552F-48EA-9794-03E026D64BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258A72B4-552F-48EA-9794-03E026D64BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5929D1E7-8735-4022-AE91-15333FDAC0D1}
+	EndGlobalSection
+EndGlobal
